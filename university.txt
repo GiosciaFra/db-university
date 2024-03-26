@@ -8,7 +8,6 @@
     SELECT *
     FROM `courses`
     WHERE `cfu` >= 11
-    (a me risultano 583 risultati)
 
 3. Selezionare tutti gli studenti che hanno più di 30 anni
     SELECT * 
